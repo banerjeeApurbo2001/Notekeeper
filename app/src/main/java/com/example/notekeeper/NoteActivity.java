@@ -1,3 +1,4 @@
+// Note activity for Note Page View
 package com.example.notekeeper;
 
 import android.content.Intent;

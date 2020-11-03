@@ -1,3 +1,4 @@
+// This Activity is for the List Of Notes Page where on clicking one note would open up the Note Activity
 package com.example.notekeeper;
 
 import android.content.Intent;
